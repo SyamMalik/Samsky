@@ -1,0 +1,121 @@
+body {
+  background-color: #e7e6e1;
+  margin: 0;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+div {
+  background-color: #e7e6e1;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 50px;
+  font-family: 'Grand Hotel', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+  color: #314e52;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  color: #314e52;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #314e52;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 10%;
+  border: 10px;
+}
+
+p {
+  color: #5b5b5b;
+  margin-bottom: 0;
+}
+
+span {
+  text-decoration: underline;
+}
+
+a {
+  text-decoration:underline;
+  color: #5b5b5b
+}
+.sam {
+  height: 300px;
+  width: 300px;
+}
+
+.swim {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.top-container {
+  background-color: #e7e6e1;
+  position: relative;
+  height: 600px;
+}
+
+.top-cloud {
+  width: 150px;
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.typing {
+  width: 25%;
+  float: right;
+}
+
+.bottom-cloud {
+  width: 150px;
+  position: absolute;
+  bottom: 200px;
+  left: 300px;
+}
+
+.mountain {
+  position: absolute;
+  width: 400px;
+  right: 750px;
+  top: 450px;
+}
+
+.separator {
+  height: 300px;
+}
+
+.skills {
+  padding-top: 50px;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: 5%;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row2 {
+  text-align: left;
+  padding: 50px 0 100px 0;
+  margin-left: 45%;
+  left: 50px;
+  width: 50%;
+  line-height: 2;
+}
+
+.profile {
+  line-height: 2;
+}
