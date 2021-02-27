@@ -70,7 +70,7 @@ a {
   width: 150px;
   position: absolute;
   top: 10%;
-  right: 25%;
+  right: 40%;
 }
 
 .typing {
@@ -82,13 +82,13 @@ a {
   width: 150px;
   position: absolute;
   bottom: 30%;
-  left: 15%;
+  left: 30%;
 }
 
 .mountain {
   position: absolute;
   width: 400px;
-  right: 70%;
+  right: 30%;
   top: 70%;
 }
 
