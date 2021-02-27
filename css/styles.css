@@ -69,8 +69,8 @@ a {
 .top-cloud {
   width: 150px;
   position: absolute;
-  top: 50px;
-  right: 300px;
+  top: 10%;
+  right: 15%;
 }
 
 .typing {
@@ -81,15 +81,15 @@ a {
 .bottom-cloud {
   width: 150px;
   position: absolute;
-  bottom: 200px;
-  left: 300px;
+  bottom: 30%;
+  left: 20%;
 }
 
 .mountain {
   position: absolute;
   width: 400px;
   right: 750px;
-  top: 450px;
+  top: 70%;
 }
 
 .separator {
@@ -102,14 +102,14 @@ a {
 
 .skill-row1 {
   width: 50%;
-  margin: 5%;
+  margin: 10%;
   text-align: left;
   line-height: 2;
 }
 
 .skill-row2 {
   text-align: left;
-  padding: 50px 0 100px 0;
+  padding: 5% 0 10% 0;
   margin-left: 45%;
   left: 50px;
   width: 50%;
